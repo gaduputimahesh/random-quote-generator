@@ -7,7 +7,7 @@ This is a **ReactJS-based Random Quote Generator** that displays motivational an
 - 🔄 Click the button to generate a new quote  
 - 🌙 Dark/light theme support *(Optional, if implemented)*  
 - 📤 Copy or share quotes on social media *(Optional, if implemented)*  
-- 🛠 Built using **ReactJS, CSS, and API Integration**  
+- 🛠 Built using **ReactJS, CSS, Html and API Integration**  
 
 ## 🎯 How to Use
 1. Open the web app in a browser.  
