@@ -15,7 +15,8 @@ This is a **ReactJS-based Random Quote Generator** that displays motivational an
 3. Get inspired and share your favorite quotes!  
 
 ## 📸 Screenshot
-![Random Quote Generator Screenshot](https://via.placeholder.com/800x400?text=Screenshot+of+Random+Quote+Generator)
+![Screenshot (328)](https://github.com/user-attachments/assets/3da1bc57-eae5-4945-a0ae-efcfa3e6558a)
+
 
 ## 🛠 Technologies Used
 - **ReactJS** - Component-based UI development  
@@ -26,3 +27,8 @@ This is a **ReactJS-based Random Quote Generator** that displays motivational an
 1. Clone this repository:  
    ```bash
    git clone https://github.com/gaduputimahesh/random-quote-generator.git
+
+   cd random-quote-generator
+   install npm
+   npm start
+   
