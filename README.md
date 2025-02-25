@@ -2,6 +2,8 @@
 
 This is a **ReactJS-based Random Quote Generator** that displays motivational and inspirational quotes. It fetches and renders random quotes dynamically, allowing users to generate new quotes with a single click.
 
+# live 
+https://random-quote-generator-sable-beta.vercel.app/
 ## 🚀 Features
 - 🎭 Displays random quotes dynamically  
 - 🔄 Click the button to generate a new quote  
