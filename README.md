@@ -9,7 +9,7 @@ https://random-quote-generator-sable-beta.vercel.app/
 - 🔄 Click the button to generate a new quote  
 - 🌙 Dark/light theme support *(Optional, if implemented)*  
 - 📤 Copy or share quotes on social media *(Optional, if implemented)*  
-- 🛠 Built using **ReactJS, CSS, Html and API Integration**  
+- 🛠 Built using **ReactJS, CSS, Html  
 
 ## 🎯 How to Use
 1. Open the web app in a browser.  
@@ -22,8 +22,9 @@ https://random-quote-generator-sable-beta.vercel.app/
 
 ## 🛠 Technologies Used
 - **ReactJS** - Component-based UI development  
-- **CSS** - Styling for an attractive UI  
-- **Fetch API / Axios** - Fetching quotes dynamically  
+- **CSS** - Styling for an attractive UI
+   
+  
 
 ## 🚀 Setup & Installation
 1. Clone this repository:  
